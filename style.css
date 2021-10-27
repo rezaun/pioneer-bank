@@ -1,0 +1,28 @@
+.site-title{
+    padding: 50px 0;
+}
+.login-area{
+    margin-top: 50px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 50px;
+}
+#transection-area{
+    display: none;
+    padding: 100px;
+}
+.diposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+
+}
